@@ -20,6 +20,7 @@ public class SimpleApp extends GameApplication {
 
         @Override
         protected void initSettings(GameSettings settings) {
+
             settings.setWidth(1280);
             settings.setHeight(720);
         }
